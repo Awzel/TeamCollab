@@ -2,11 +2,11 @@ package utils;
 
 public class MainUtils {
 
-    public void getCashMethod(){
+    public static void getCashMethod(){
 
     }
 
-    public void becomeImmortableMethod(){
+    public static void becomeImmortableMethod(){
 
     }
 
