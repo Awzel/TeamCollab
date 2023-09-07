@@ -5,8 +5,6 @@ public class MainUtils {
     // added some extra methods
     // method for testing
 
-       public class methodcool {
 
-       }
 
 }
