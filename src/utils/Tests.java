@@ -3,7 +3,10 @@ package utils;
 public class Tests {
 
  // creating test
-    // was this the right way to create a test
+   // testing   method cool
+    public static void main(String[] args) {
+
+    }
 
 
 
