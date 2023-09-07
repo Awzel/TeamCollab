@@ -3,12 +3,6 @@ package utils;
 public class Tests {
 
  // creating test
-   // testing   method cool
-    public static void main(String[] args) {
+  // i deleted all the posts 
+  // maybe it will work now }
 
-    }
-
-
-
-    }
-  
