@@ -2,8 +2,12 @@ package utils;
 
 public class MainUtils {
 
-    // TODO
-    // added some extra methods
-    // method for testing
+    public static void getCashMethod(){
+
+    }
+
+    public static void becomeImmortableMethod(){
+
+    }
 
 }
